@@ -2,9 +2,9 @@
 
 [日本語版](#日本語版) below
 
-NoOps stands for "No Uncomfortable Ops". It is the combination of technology, architecture, and activities that enable elimination of uncomfortable things in system operation. Designing container-based higher resilient system, utilizing DevOps, automated monitoring and configuration, and eliminating toil by SRE exemplify this approach. 
+NoOps stands for "No Uncomfortable Ops".It is the combination of technology, architecture, and activities that enable the elimination of uncomfortable system operations. Designing container-based highly resilient systems, utilizing DevOps, automated monitoring/configuration and eliminating SRE Toil exemplify this approach.
 
-Core capabilities, which are necessary to achieve NoOps, are high resiliency, observability, configurability, and security collateral. Leveraging these capabilities allow to enjoy experiences such as Self-Healing, In-flight renewing, Adaptive Scale, and Safety Everywhere.
+Core capabilities, which are necessary to achieve NoOps, are high resiliency, observability, configurability, and security gurantees. Leveraging these capabilities allow us to realize the experience of self-healing, zero-downtime maintenance, adaptive scale, and safety everywhere.
 
 ## 日本語版：
 
