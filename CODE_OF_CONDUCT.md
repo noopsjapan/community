@@ -24,7 +24,7 @@ This Code of Conduct applies within project spaces and in public spaces when an 
 
 ## Consequences
 Understand that speech and actions have consequences, and unacceptable behavior will not be tolerated.
-If you are the subject of, or witness to any violations of this Code of Conduct, please contact us by submitting a form here, or email xxx@xxxx.
+If you are the subject of, or witness to any violations of this Code of Conduct, please contact us by submitting a form here, or email noopsjapan@gmail.com.
 If violations occur, organizers will take any action they deem appropriate for the infraction, up to and including expulsion.
 
 # 日本語版：
